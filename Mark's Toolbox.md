@@ -14,3 +14,7 @@
 - http://www.httrack.com/
 
 
+**Time Management:**
+
+- ManicTime
+- rescuetime
